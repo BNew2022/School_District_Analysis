@@ -7,8 +7,9 @@ The purpose of this analysis is to look into the provided standardized testing d
 ## Results
 
 How is the district summary affected?
-![This is an image](https://github.com/BNew2022/School_District_Analysis/blob/main/Resources/district_summary_vs.png)
+![This is an image](https://github.com/BNew2022/School_District_Analysis/blob/main/Resources/distric_summary_vs.png)
 How is the school summary affected?
+![This is an image](https://github.com/BNew2022/School_District_Analysis/blob/main/Resources/school_summary_vs.png)
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
